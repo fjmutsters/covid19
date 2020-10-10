@@ -1,3 +1,20 @@
+# bigger files 
+*.csv
+*.txt
+*.jpg
+*.jpeg
+*.pdf
+*.doc
+*.docx
+*.ipynb_checkpoints
+*.png
+*.xlsx
+*.xls
+*.xlsm
+*.xltx 
+*.xltm
+*.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
