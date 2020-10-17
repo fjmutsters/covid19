@@ -32,20 +32,20 @@ The time series data for the analysis is mainly taken from the John Hopkins Univ
 Dataset for demographic information such as Population , Population Density etc are taken from Kaggle.
  
 ## Workflow
-Choose an interesting topic and gather a dataset with appropriate details and file format. 
-Understand the data and come up with problem statements.
-Perform data wrangling/cleaning.
-Update ipynb / python file with interpretation using Pandas/python , visualization of data using Seaborn and Plotly.
-Statistical Analysis including confidence intervals and Hypothesis testing.
-Present the data insights with storytelling in a slide deck and evaluate the deviation of facts from hypothesis with proper reasoning.
+Choose an interesting topic and gather a dataset with appropriate details and file format.                                                                                        
+Understand the data and come up with problem statements.                                                                                                                          
+Perform data wrangling/cleaning.                                                                                                                                                  
+Update ipynb / python file with interpretation using Pandas/python , visualization of data using Seaborn and Plotly.                                                              
+Statistical Analysis including confidence intervals and Hypothesis testing.                                                                                                        
+Present the data insights with storytelling in a slide deck and evaluate the deviation of facts from hypothesis with proper reasoning.                                               
 Create a README file which describes about the project.
 
 
 ## Organization
-A Git repository is created exclusively for this project.
-The main deliverables are the python file , an updated README and the PPT.
-The .py /.ipynb files detailing about the analysis are pushed to the individual project folder of the class repository.
-Only the README file will be available in the data folder.
+A Git repository is created exclusively for this project.                                                                                                                          
+The main deliverables are the python file , an updated README and the PPT.                                                                                                          
+The .py /.ipynb files detailing about the analysis are pushed to the individual project folder of the class repository.                                                             
+Only the README file will be available in the data folder.                                                                                                                          
 Any raw files / image files, data file(dataset)and the presentation file(.ppt) is uploaded in the google drive folder.
 
 
