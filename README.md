@@ -18,17 +18,17 @@ Ironhack | Amsterdam | Data Analytics Bootcamp - 17-10-2020
 
 
 ## Project Description
-In this project we have attempted to do an analysis of the time series data of the coronavirus pandemic which has been disrupting the world since December 2019.
+In this project we have attempted to do an analysis of the time series data of the coronavirus pandemic which has been disrupting the world since December 2019.                       
 We have specifically focused on the variations and trends in the confirmed cases , deaths and recoveries across a few countries in the world related to their population per million and density.
 
 ## Questions & Hypotheses
-1.Is death rate (% of deaths compared to covid cases) declining?
-2.Does higher population density leads to higher number of new covid cases (looking at second wave)?
-3.Was Sweden's voluntary lockdown strategy a success?
+1.Is death rate (% of deaths compared to covid cases) declining?                                                                                                                     
+2.Does higher population density leads to higher number of new covid cases (looking at second wave)?                                                                              
+3.Was Sweden's voluntary lockdown strategy a success?                                                                                                                              
 4.Some cool analysis of 8 countries of group
 
 ## Dataset
-The time series data for the analysis is mainly taken from the John Hopkins University which is updated on a daily basis.
+The time series data for the analysis is mainly taken from the John Hopkins University which is updated on a daily basis.                                                          
 Dataset for demographic information such as Population , Population Density etc are taken from Kaggle.
  
 ## Workflow
