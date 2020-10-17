@@ -1,8 +1,8 @@
 ![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
 
-# Project : Covid 19
+# Project : Descriptive and Inferential Statistics
 
-Understanding differences between the Countries  
+CoViD9 - Understanding differences between the Countries  
 Frank Jan Mutsters & Archana Rao 
 
 Ironhack | Amsterdam | Data Analytics Bootcamp - 17-10-2020
