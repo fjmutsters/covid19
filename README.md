@@ -2,7 +2,7 @@
 
 # Project : Descriptive and Inferential Statistics
 
-CoViD9 - Understanding differences between the Countries  
+CoViD19 - Understanding differences between the Countries  
 Frank Jan Mutsters & Archana Rao 
 
 Ironhack | Amsterdam | Data Analytics Bootcamp - 17-10-2020
